@@ -3,29 +3,24 @@
 	box-sizing: content-box;
 	width: 150px;
 	height: 150px;
-    border-radius: 200px;
+        border-radius: 200px;
 	border:1px dashed ;
 	display:block;
 	margin: auto;
-	
 }
 .name{
 	margin: 10px 110px 0px 110px;
 	text-align: center;
-	
 }
 .name1{
 	margin: 0px 0px 10px 0px;
 	background-color:#777777 ;
 	color: aliceblue;
 	text-align: center;
-	
 }
 .pic3{
 	width: 40px;
 	height: 40px;
-
-
 }
 .p1{
 	width: 400px;
@@ -44,8 +39,7 @@
 	width: 30px;
 	height: 30px;
 	display: inline-block;
-    margin: 5px;
-
+        margin: 5px;
 }
 body{
 	background-color: #777777;
